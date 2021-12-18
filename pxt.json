@@ -1,0 +1,28 @@
+{
+    "name": "Rock Paper Scissors",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.12.1",
+        "tinkercademy-tinker-kit": "github:Tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
